@@ -12,6 +12,6 @@ export type TLandpad =  {
     "landing_type": string,
     "attempted_landings": number,
     "successful_landings": number,
-    "wikipedia": string
+    "wikipedia": string,
     "details": string
-  },
+  }
