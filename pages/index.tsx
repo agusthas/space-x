@@ -35,7 +35,7 @@ const Home: NextPage = () => {
               alt="rockets"
             />
             <h2 className="text-xl font-bold hover:underline">
-              <Link href="/roket">
+              <Link href="/rockets">
                 <a>Rockets</a>
               </Link>
             </h2>
